@@ -1,1 +1,3 @@
-
+def call(){
+  echo "Hello"
+}
